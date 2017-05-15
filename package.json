@@ -1,0 +1,33 @@
+{
+  "name": "karmyo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karmyo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shreya22@bitbucket.org/karmyodevelopment/karmyo-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/karmyodevelopment/karmyo-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "config": "^1.26.1",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.6",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "mongoose": "^4.9.9",
+    "morgan": "^1.8.1",
+    "multer": "^1.3.0",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
